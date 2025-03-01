@@ -29,9 +29,13 @@ Use Airflow only at Transform layer. Remaining layers are taken care by AWS Serv
 **Scenario 3**
 ![Airflow data pipeline scenario 3](https://github.com/user-attachments/assets/a39aa9e0-7558-4caa-9ce5-0e38a02912a5)
 
+**Using python**
+![image](https://github.com/user-attachments/assets/8d1d3b3b-d2dd-4922-bb37-ee71223c0d61)
+
 # Prerequisites :
 
 1.AWS Account
 2.Spotify API credentials
 3.Docker Installtion
 4.Python latest version
+
