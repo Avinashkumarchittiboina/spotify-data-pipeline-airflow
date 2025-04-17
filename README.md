@@ -32,6 +32,11 @@ Use Airflow only at Transform layer. Remaining layers are taken care by AWS Serv
 **Using python**
 ![image](https://github.com/user-attachments/assets/8d1d3b3b-d2dd-4922-bb37-ee71223c0d61)
 
+**Airflow,Pyspark,EMR,Snowflake**
+
+![image](https://github.com/user-attachments/assets/2853e0ee-89e4-4fab-a7e5-5849c565232d)
+
+
 # Prerequisites :
 
 1.AWS Account
