@@ -44,6 +44,14 @@ Use Airflow only at Transform layer. Remaining layers are taken care by AWS Serv
 
 ![image](https://github.com/user-attachments/assets/56ee164e-e305-462c-81ec-83cf9e8c669f)
 
+**Project 3**
+
+![image](https://github.com/user-attachments/assets/03b3ddce-2d88-426d-9c22-b36e8a38d223)
+
+**Project 4**
+
+![image](https://github.com/user-attachments/assets/172ca7fb-ca9e-43b8-aa12-58419d34ef3c)
+
 
 # Prerequisites :
 
