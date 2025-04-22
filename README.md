@@ -52,6 +52,10 @@ Use Airflow only at Transform layer. Remaining layers are taken care by AWS Serv
 
 ![image](https://github.com/user-attachments/assets/172ca7fb-ca9e-43b8-aa12-58419d34ef3c)
 
+**AWS , Azure,GCP**
+
+![image](https://github.com/user-attachments/assets/3d0b2a2a-f2b8-4a03-9889-f52847fe6d74)
+
 
 # Prerequisites :
 
