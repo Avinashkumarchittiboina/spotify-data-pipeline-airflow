@@ -60,6 +60,11 @@ Use Airflow only at Transform layer. Remaining layers are taken care by AWS Serv
 
 ![image](https://github.com/user-attachments/assets/ea9f3808-089d-403e-a87b-1c7c0556d189)
 
+**AWS glude to snowflake (bypassing to S3) **
+
+![image](https://github.com/user-attachments/assets/70bc6a80-be4d-4322-b851-72cca479b880)
+
+
 # Prerequisites :
 
 1.AWS Account
